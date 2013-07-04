@@ -1,0 +1,4 @@
+enc
+===
+
+enc&amp;dec
